@@ -1,0 +1,24 @@
+{
+  "name": "hw4-bestreads-yichen12",
+  "version": "1.0.0",
+  "description": "Homework 4: Best Reads",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.cs.washington.edu:cse154-20sp-students/hw4-bestreads-yichen12.git"
+  },
+  "keywords": [
+    "154",
+    "HW4"
+  ],
+  "author": "Ethan Hu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite": "^4.0.9",
+    "sqlite3": "^4.2.0"
+  }
+}
